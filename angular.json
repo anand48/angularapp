@@ -24,9 +24,15 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "/home/anand/Desktop/Newprojects/angularapp/node_modules/bootstrap/dist/css/bootstrap.css",
+              "/home/anand/Desktop/Newprojects/angularapp/node_modules/font-awesome/css/font-awesome.css"
             ],
-            "scripts": []
+            "scripts": [
+              "/home/anand/Desktop/Newprojects/angularapp/node_modules/jquery/dist/jquery.js",
+              "/home/anand/Desktop/Newprojects/angularapp/node_modules/popper.js/dist/popper.js",
+              "/home/anand/Desktop/Newprojects/angularapp/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
